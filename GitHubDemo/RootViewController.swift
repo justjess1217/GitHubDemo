@@ -15,7 +15,10 @@ class RootViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        thisIsTextLabel.text = "hooray git"
+        
+        
+        //good job Jess : )
     }
 
 
